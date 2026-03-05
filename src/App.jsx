@@ -295,7 +295,7 @@ function App() {
               <p className="text-gray-600">
                 11:30 - Thứ Sáu
                 <br />
-                Ngày 08 tháng 03, 2026
+                Ngày 06 tháng 03, 2026
               </p>
             </div>
             {/* Location */}
