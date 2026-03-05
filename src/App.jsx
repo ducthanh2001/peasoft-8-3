@@ -325,7 +325,8 @@ function App() {
                 Địa Điểm
               </h5>
               <p className="text-gray-600">
-               Cạnh trường mầm non Sakura, CT4-1, <br /> Khu đô thị Mễ Trì Hạ, Nam Từ Liêm
+               Lẩu gà lá é <br />
+               Cạnh trường mầm non Sakura, CT4-1
               </p>
             </div>
             {/* Dresscode */}
